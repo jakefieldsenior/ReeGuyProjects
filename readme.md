@@ -18,7 +18,7 @@
 
 <p>Search for a Minecraft skin and get a mini profile containing a skin.</p>
 
-<h2>Known Bugs:</h2>
+<h3>Known Bugs:</h3>
 <ul>
 	<li>Downloads get saved as .png, need to rename to '(something).png'.</li>
 </ul>
